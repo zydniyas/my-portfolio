@@ -134,12 +134,12 @@ const educationInfo = {
       schoolName: "University of Calicut",
       logo: require("./assets/images/Uni_of_cali.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "June 20119 - April 2022",
-      desc: "",
-      descBullets: [
-        "",
-        ""
-      ]
+      duration: "June 2019 - April 2022",
+      // desc: "",
+      // descBullets: [
+      //   "",
+      //   ""
+      // ]
     }
   ]
 };
